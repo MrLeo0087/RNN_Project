@@ -1,4 +1,4 @@
-# Spam Email Classifier (GRU + LSTM)
+# Spam Email Classifier (GRU + GRU)
 
 This model predicts whether an email is **Spam** or **Non-Spam**.
 
@@ -9,12 +9,10 @@ This model predicts whether an email is **Spam** or **Non-Spam**.
 - **Architecture:** Embedding + GRU (150)+GRU(125) + Dense
 - **Trained on:** Labeled spam and non-spam emails dataset
 
-
 ### Try Model
 
 * **Hugging Face Model:** [View Model](https://huggingface.co/MrLeo0087/spam-email-classifier/blob/main/email_rnn.keras)
 * **Hugging Face tokenizer Model:** [View Model](https://huggingface.co/MrLeo0087/spam-email-classifier/blob/main/tokenizer_email.pkl)
-
 
 ## Dataset
 
