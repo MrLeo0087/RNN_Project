@@ -19,8 +19,11 @@ The model is built with an **Embedding + LSTM architecture** in TensorFlow/Keras
 
 * **Hugging Face Model:** [View Model](https://huggingface.co/MrLeo0087/imdb-movie-review-sentiment-analysis/blob/main/IMDB.keras)
 * **Hugging Face tokenizer Model:** [View Model](https://huggingface.co/MrLeo0087/imdb-movie-review-sentiment-analysis/blob/main/tokenizer.pkl)
+* 
 
----
+## Dataset 
+
+This dataset is from kaggle [Link](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
 
 ## Author
 
