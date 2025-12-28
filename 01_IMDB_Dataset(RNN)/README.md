@@ -23,7 +23,7 @@ The model is built with an **Embedding + LSTM architecture** in TensorFlow/Keras
 
 ## Dataset 
 
-This dataset is from kaggle [Link](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
+This dataset is from kaggle [Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Author
 
